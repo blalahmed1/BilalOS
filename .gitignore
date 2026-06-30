@@ -1,0 +1,41 @@
+# Node
+node_modules/
+.next/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Docker
+docker-data/
+
+# Temporary
+tmp/
+temp/
+
+# Testing
+coverage/
+
+# Database
+*.sqlite
+*.db
